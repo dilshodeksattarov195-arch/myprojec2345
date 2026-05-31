@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "configderify",
+        "uuid": 3487015,
+        "checksum": "y2w3di"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
